@@ -34,3 +34,8 @@ pnpm-debug.log*
 !.yarn/versions
 .pnp.*
 .vercel
+
+pnpm-lock.yaml
+yarn.lock
+package-lock.json
+.pnpm-lock.yaml
