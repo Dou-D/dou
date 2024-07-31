@@ -4818,7 +4818,6 @@ snapshots:
   '@types/node@20.14.10':
     dependencies:
       undici-types: 5.26.5
-    optional: true
 
   '@types/prop-types@15.7.12': {}
 
@@ -4833,7 +4832,7 @@ snapshots:
 
   '@types/sax@1.2.7':
     dependencies:
-      '@types/node': 17.0.45
+      '@types/node': 20.14.10
 
   '@types/ungap__structured-clone@1.2.0': {}
 
@@ -7688,8 +7687,7 @@ snapshots:
 
   ultrahtml@1.5.3: {}
 
-  undici-types@5.26.5:
-    optional: true
+  undici-types@5.26.5: {}
 
   undici@5.28.4:
     dependencies:
